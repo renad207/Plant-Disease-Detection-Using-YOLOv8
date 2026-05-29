@@ -1,8 +1,5 @@
 # import libraries
 
-!pip install roboflow
-!pip install ultralytics
-
 
 
 from roboflow import Roboflow
@@ -17,10 +14,6 @@ from PIL import Image
 import pandas as pd
 import cv2
 import seaborn as sns
-
-
-!mkdir test_images
-!unzip "/content/test_img.zip"
 
 
 
