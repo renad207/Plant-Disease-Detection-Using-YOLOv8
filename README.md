@@ -1,5 +1,6 @@
 # 🌱 Plant Disease Detection using YOLOv8
 
+
 ## 📌 Overview
 
 This project focuses on detecting and localizing plant diseases using Object Detection techniques with YOLOv8.
@@ -52,7 +53,8 @@ Each image includes:
 Dataset split (after balancing):
 
 * 79% Training
-* 21% Testing
+* 12% Evaluation
+* 9%  Testing
 
 ---
 
@@ -61,7 +63,6 @@ Dataset split (after balancing):
 Annotation was performed using tools such as:
 
 * Roboflow
-* LabelImg
 
 ---
 
@@ -165,13 +166,12 @@ This demonstrates the importance of data augmentation in improving model robustn
 
 ---
 
-# 📷 Sample Outputs
-
-(Add output images here)
-
----
-
 # 📌 Conclusion
 
 This project provided practical experience in object detection, model optimization, dataset preparation, and real-world AI problem solving using YOLOv8.
 This project will serve people working in the farming field to know different kinds of plant diseases and pay attention for crops that suffer of severe infection.
+
+---
+
+# Author
+Renad Amr 
